@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We have now chosen to use github over google drive because google drive will randomally put code in the trash then bring it back weeks later.
+We are a FIRST Robotics team founded in Searcy, AR. We are super excited for Charged Up!
